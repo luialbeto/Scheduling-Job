@@ -1,0 +1,10 @@
+{
+  "coluna_tipo": "descricao",
+  "tabela_que_contem_tipo": "tipo",
+  "coluna_data_maxima": "data_maxima_de_conclusao",
+  "tabela_que_contem_data_maxima": "data_maxima",
+  "coluna_que_contem_hora": "hora",
+  "tabela_que_contem_hora": "horas",
+  "coluna_que_contem_tempo": "tempo",
+  "tabela_que_contem_tempo": "tempo_estimado"
+}
